@@ -28,16 +28,5 @@ cv:
         end_date: 2026
 
     Research Experience:
-      - company: University of California, Los Angeles
-        position: Summer Research
-        location: Los Angeles, CA, USA
-        url: https://scholar.google.com/citations?user=TT_duF0AAAAJ&hl=en
-        start_date: 2025
-        end_date: 2025
-        summary: "Advisor: Prof. Matteo Pellegrini"
-
-      - company: Center for Machine Learning Research, Peking University
-        position: Undergraduate Research
-        location: Beijing, China
-        url: https://cliffzhou92.github.io
-        summary: "Advisor: Prof. Peijie Zhou"
+      - bullet: "**Summer Research**, University of California, Los Angeles (2025). Advisor: [Prof. Matteo Pellegrini](https://scholar.google.com/citations?user=TT_duF0AAAAJ&hl=en)"
+      - bullet: "**Undergraduate Research**, Center for Machine Learning Research, Peking University. Advisor: [Prof. Peijie Zhou](https://cliffzhou92.github.io)"
