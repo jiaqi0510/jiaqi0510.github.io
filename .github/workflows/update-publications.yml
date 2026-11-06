@@ -25,7 +25,11 @@ jobs:
         run: pip install scholarly "bibtexparser<2" pyyaml
 
       - name: Fetch new publications
-        run: timeout 300 python bin/update_scholar_publications.py
+        # Google Scholar often blocks GitHub's servers; if so, warn instead of failing.
+        # Fallback: run `python bin/update_scholar_publications.py` locally and push.
+        run: |
+          timeout 240 python -u bin/update_scholar_publications.py || \
+            echo "::warning::Google Scholar did not respond (likely blocked GitHub's IP). Run bin/update_scholar_publications.py locally instead."
 
       - name: Commit and push if changed
         id: commit
