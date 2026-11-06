@@ -4,7 +4,6 @@ cv:
   email: jiaqihan05@g.ucla.edu
   location: Los Angeles, CA
   image: ""
-  summary: Bioinformatics PhD student at UCLA.
 
   social_networks:
     - network: GitHub
@@ -27,3 +26,18 @@ cv:
         studyType: BS
         start_date: 2022
         end_date: 2026
+
+    Research Experience:
+      - company: University of California, Los Angeles
+        position: Summer Research
+        location: Los Angeles, CA, USA
+        url: https://scholar.google.com/citations?user=TT_duF0AAAAJ&hl=en
+        start_date: 2025
+        end_date: 2025
+        summary: "Advisor: Prof. Matteo Pellegrini"
+
+      - company: Center for Machine Learning Research, Peking University
+        position: Undergraduate Research
+        location: Beijing, China
+        url: https://cliffzhou92.github.io
+        summary: "Advisor: Prof. Peijie Zhou"

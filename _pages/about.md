@@ -26,8 +26,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I'm Jiaqi Han, a PhD student in Bioinformatics at the University of California, Los Angeles (UCLA).
+Hi! I'm Jiaqi Han, a PhD student in Bioinformatics at the University of California, Los Angeles (UCLA), currently doing lab rotations.
 
-Before UCLA, I received my bachelor's degree from Peking University in 2026, majoring in Bioinformatics and Economics.
+Before UCLA, I received my bachelor's degree from Peking University in 2026, majoring in Bioinformatics and Economics. As an undergraduate, I did research with Prof. [Peijie Zhou](https://cliffzhou92.github.io) at the Center for Machine Learning Research, Peking University. In summer 2025, I did summer research with Prof. [Matteo Pellegrini](https://scholar.google.com/citations?user=TT_duF0AAAAJ&hl=en) at UCLA.
 
 Feel free to reach out by [email](mailto:jiaqihan05@g.ucla.edu).
